@@ -8,4 +8,4 @@ JOIN
 GROUP BY 
     o.OrderID  -- Группируем по OrderID
 ORDER BY 
-    TotalItems DESC;  -- Сортируем по общему количеству позиций в порядке убывания
+    TotalItems DESC;  --Сортируем по общему количеству позиций в порядке убывания

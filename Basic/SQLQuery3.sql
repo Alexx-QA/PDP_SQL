@@ -3,5 +3,4 @@ SELECT
     COUNT(*) AS ContactCount
 FROM 
     Customers
-GROUP BY 
-    ContactTitle;
+GROUP BY     ContactTitle;
